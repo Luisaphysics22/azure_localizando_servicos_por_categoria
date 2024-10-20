@@ -29,25 +29,25 @@ Repositório para armazenar resumos sobre como localizar os serviços por catego
 | Computação | Rede |
 |----------------|----------------| 
 | Área de Trabalho Virtual do Azure | Base de Rede|
-| Coleção de Ponto de Restauração | Base de Rede|
-| Conjuntos e Dimensionamento de Máquinas Virtuais | Base de Rede|
-| Conjuntos de Disponibilidade de Contas de Laboratório | Base de Rede|
-| Definições de Imagem VM | Base de Rede|
-| Definições do Aplicativo VM | Base de Rede|
-| Galeria de Computação do Azure| Base de Rede|
-| Grupo de Hosts | Base de Rede|
-| Grupos de Posicionamento  por proximidade| Base de Rede|
-| Imagens | Base de Rede|
-| Imagens da Comunidade | Base de Rede|
-| Máquinas Virtuais | Base de Rede|
-| Modelos de Imagem | Base de Rede|
-| Pools de Disco | Base de Rede|
-| Versões de Imagem da VM | Base de Rede|
-| Versões do Aplicativo de VM | Base de Rede|
-| Plataform as a Service (PaaS) | Base de Rede|
-| Sem Servidor e Microserviços | Base de Rede|
-| Computação de Alto Desempenho | Base de Rede|
-| Nuvem Híbrida | Base de Rede|
+| Coleção de Ponto de Restauração | Bastions|
+| Conjuntos e Dimensionamento de Máquinas Virtuais | Endereço de IP Públicos|
+| Conjuntos de Disponibilidade de Contas de Laboratório | Gateway NAT|
+| Definições de Imagem VM | Gerenciador de Rede|
+| Definições do Aplicativo VM | Link Privado|
+| Galeria de Computação do Azure| Prefixos de IP Personalizados|
+| Grupo de Hosts | Prefixos de IP Públicos|
+| Grupos de Posicionamento  por proximidade| Redes Virtuais|
+| Imagens | Resolvedores Privados de DNS|
+| Imagens da Comunidade | Zonas DNS|
+| Máquinas Virtuais | Zonas DNS Privado|
+| Modelos de Imagem | Conectividade Híbrida|
+| Pools de Disco | Segurança de Rede|
+| Versões de Imagem da VM | Firewalls|
+| Versões do Aplicativo de VM | Gerenciador de Firewalls|
+| Plataform as a Service (PaaS) | Grupos de Segurança de Rede|
+| Sem Servidor e Microserviços | Local Balancing|
+| Computação de Alto Desempenho | Content Delivery|
+| Nuvem Híbrida | Monitoring|
 
 
 
